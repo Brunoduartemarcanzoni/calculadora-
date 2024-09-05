@@ -7,7 +7,7 @@ function calcular(opera) {
     
     }else{
          
-    }if(opera == +'+'){
+    }if(opera == '+'){
         resultado = num1 + num2;
     }else if(opera == '-'){
         resultado = num1 - num2;
